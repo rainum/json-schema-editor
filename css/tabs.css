@@ -1,0 +1,15 @@
+.tab-switchers > button {
+  margin-right: 1em;
+}
+
+.tabs-contents {
+  padding-top: 1em;
+}
+
+.tabs-contents > div {
+  display: none;
+}
+
+.tabs-contents > .active {
+  display: block;
+}

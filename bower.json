@@ -1,0 +1,20 @@
+{
+  "name": "json-schema-editor",
+  "version": "1.0.0",
+  "authors": [
+    "Vazha Omanashvili <rainum.ua@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "~3.9.3",
+    "react": "~0.13.3",
+    "codemirror": "~5.3.0"
+  }
+}
